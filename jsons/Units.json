@@ -11,7 +11,7 @@
                 "attackSound": "nuke"
 }, 
         {
-                "name": "Tsar bomba",
+                "name": "Tsar Bomba",
                 "unitType": "Missile",
                 "movement": 5,
                 "strength": 3000,
