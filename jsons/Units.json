@@ -11,14 +11,14 @@
                 "attackSound": "nuke"
 }, 
         {
-                "name": "",
+                "name": "Tsar bomba",
                 "unitType": "Missile",
                 "movement": 5,
                 "strength": 3000,
                 "rangedStrength": 3000,
                 "range": 20,
                 "cost": 10000,
-                "requiredTech": "",
+                "requiredTech": "Particle Physics",
                 "uniques": ["Nuclear weapon of Strength [8]", "Only available <if [Manhattan Project] is constructed>",
                         "Blast radius [9]","Limited to [1] per Civilization", "Consumes [8] [Uranium]"],
                 "attackSound": "nuke"
