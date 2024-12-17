@@ -1,1 +1,12 @@
-not available
+[
+{
+                "name": "Orbital satellite",
+                "unitType": "Missile",
+                "movement": 2,
+                "cost": 500,
+                "requiredTech": "Robotics",
+                "requiredResource": "Aluminum",
+                "uniques": ["Limited to [1] per Civilization", "Consumes [2] [Uranium]"],
+                "attackSound": "nuke"
+        },
+]
