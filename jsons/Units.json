@@ -3,10 +3,11 @@
                 "name": "Orbital satellite",
                 "unitType": "Missile",
                 "movement": 2,
-                "cost": 500,
-                "requiredTech": "Robotics",
-                "requiredResource": "Aluminum",
-                "uniques": ["Limited to [1] per Civilization", "Consumes [2] [Uranium]"],
+                "strength": 1000,
+                "range": 12,
+                "cost": 1500,
+                "requiredTech": "satellites",
+                "uniques": ["Limited to [1] per Civilization", "Consumes [4] [Alminum]"],
                 "attackSound": "nuke"
-        },
+},                
 ]
