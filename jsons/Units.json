@@ -9,5 +9,16 @@
                 "requiredTech": "Satellites",
                 "uniques": ["[+50] Sight","Limited to [1] per Civilization", "Consumes [4] [Alminum]"],
                 "attackSound": "nuke"
-},                
+}, 
+{
+                "name": "",
+                "unitType": "Missile",
+                "movement": 10,
+                "strength": 3000,
+                "range": 20,
+                "cost": 3000,
+                "requiredTech": "Satellites",
+                "uniques": ["[+50] Sight","Limited to [1] per Civilization", "Consumes [4] [Alminum]"],
+                "attackSound": "nuke"
+},      
 ]
