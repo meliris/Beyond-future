@@ -216,9 +216,9 @@
 "wonderCost": 1750,
 "techs": [
 {
-"name": "",
+"name": "explore Venus",
 "row": 6,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Moon explore"],
 "quote": "",
 }]
 },
@@ -230,9 +230,9 @@
 "wonderCost": 1750,
 "techs": [
 {
-"name": "",
+"name": "explore Jupiter",
 "row": 8,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Moon explore","Super alloy technology"],
 "quote": "",
 }]
 },
