@@ -70,7 +70,7 @@
 "wonderCost": 1250,
 "techs": [
 {
-"name": "",
+"name": "Quantum Computer technology",
 "row": 2,
 "prerequisites": ["Beyond Future"],
 "quote": "",
