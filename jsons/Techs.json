@@ -188,9 +188,9 @@
 "wonderCost": 1750,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Virtual reality system",
+"row": 2,
+"prerequisites": ["Hologram technology"],
 "quote": "",
 }]
 },
@@ -202,9 +202,9 @@
 "wonderCost": 1750,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Pipenet system",
+"row": 4,
+"prerequisites": ["Ai Singularity"],
 "quote": "",
 }]
 },
