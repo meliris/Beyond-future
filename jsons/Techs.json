@@ -232,7 +232,7 @@
 {
 "name": "explore Jupiter",
 "row": 8,
-"prerequisites": ["Moon explore","Super alloy technology"],
+"prerequisites": ["Mars explore","Super alloy technology"],
 "quote": "",
 }]
 },
