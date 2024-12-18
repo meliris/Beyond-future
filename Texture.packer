@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "Orbital satellite.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 109,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Tsar Bomba.png": {
+      "frame": {
+        "x": 109,
+        "y": 0,
+        "w": 108,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 73
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 217,
+      "h": 93
+    },
+    "scale": 1
+  }
+}
