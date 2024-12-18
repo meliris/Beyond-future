@@ -104,4 +104,60 @@
 "quote": "Photon drive technology",
 }]
 },
+{
+"columnNumber": 20,
+"era": "Future era",
+"techCost": 16000,
+"buildingCost": 750,
+"wonderCost": 1250,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 20,
+"era": "Future era",
+"techCost": 16000,
+"buildingCost": 750,
+"wonderCost": 1250,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 20,
+"era": "Future era",
+"techCost": 16000,
+"buildingCost": 750,
+"wonderCost": 1250,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 20,
+"era": "Future era",
+"techCost": 16000,
+"buildingCost": 750,
+"wonderCost": 1250,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
 ]
