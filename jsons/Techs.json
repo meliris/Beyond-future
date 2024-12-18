@@ -407,8 +407,8 @@
 "wonderCost": 4000,
 "techs": [
 {
-"name": "",
-"row": 6,
+"name": "Warp technology",
+"row": 3,
 "prerequisites": ["Beyond Future"],
 "quote": "",
 }]
@@ -421,7 +421,7 @@
 "wonderCost": 4000,
 "techs": [
 {
-"name": "",
+"name": "explore wormhole",
 "row": 6,
 "prerequisites": ["Beyond Future"],
 "quote": "",
