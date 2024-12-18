@@ -319,7 +319,7 @@
 {
 "name": "search for Planet nine",
 "row": 12,
-"prerequisites": ["explore Jupiter","Antimatter system"],
+"prerequisites": ["explore Jupiter"],
 "quote": "",
 }]
 },
@@ -409,7 +409,7 @@
 {
 "name": "Warp technology",
 "row": 3,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Mind link technology","Anti aging system"],
 "quote": "",
 }]
 },
@@ -423,7 +423,7 @@
 {
 "name": "explore wormhole",
 "row": 6,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["explore Black hole"],
 "quote": "",
 }]
 },
@@ -435,9 +435,9 @@
 "wonderCost": 4000,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Black hole power generator",
+"row": 8,
+"prerequisites": ["Dyson sphere technology","explore Black hole"],
 "quote": "",
 }]
 },
@@ -449,9 +449,9 @@
 "wonderCost": 4000,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Anti gravity system",
+"row": 10,
+"prerequisites": ["Antimatter system","explore Black hole"],
 "quote": "",
 }]
 },
