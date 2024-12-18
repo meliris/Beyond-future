@@ -263,7 +263,7 @@
 {
 "name": "Anti aging system",
 "row": 2,
-"prerequisites": ["Hologram technology"],
+"prerequisites": ["Virtual reality system"],
 "quote": "",
 }]
 },
@@ -277,7 +277,7 @@
 {
 "name": "Mechanical Lifeforms",
 "row": 4,
-"prerequisites": ["Pipenet system","Mars explore"],
+"prerequisites": ["Pipenet system","explore Venus"],
 "quote": "",
 }]
 },
