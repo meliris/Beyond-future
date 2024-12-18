@@ -8,7 +8,7 @@
                 "techs": [
                         {
                                 "name": "Terraforming technology",
-                                "row": 10,
+                                "row": 5,
                                 "prerequisites": ["Nanotechnology"],
                 "uniques": [],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
@@ -42,7 +42,7 @@
                 "techs": [
                         {
                                 "name": "Neural link",
-                                "row": 10,
+                                "row": 2,
                                 "prerequisites": ["Globalization"],
                 "uniques": [],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
@@ -59,7 +59,7 @@
                 "techs": [
                         {
                                 "name": "Beyond Future",
-                                "row": 12,
+                                "row": 7,
                                 "prerequisites": ["Terraforming technology","Neural link","spaceship"],
                 "uniques": ["Can be continually researched"],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
