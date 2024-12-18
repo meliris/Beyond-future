@@ -261,9 +261,9 @@
 "wonderCost": 2000,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Anti aging system",
+"row": 2,
+"prerequisites": ["Hologram technology"],
 "quote": "",
 }]
 },
@@ -275,9 +275,9 @@
 "wonderCost": 2000,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Mechanical Lifeforms",
+"row": 4,
+"prerequisites": ["Pipenet system","Mars explore"],
 "quote": "",
 }]
 },
