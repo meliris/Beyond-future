@@ -8,14 +8,14 @@
                 "techs": [
                         {
                                 "name": "Terraforming technology",
-                                "row": 7,
-                                "prerequisites": ["Nanotechnology","spaceship"],
+                                "row": 10,
+                                "prerequisites": ["Nanotechnology"],
                 "uniques": [],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
                         }
                 ]
-        }
+        },
                 {
                 "columnNumber": 17,
                 "era": "Future era",
@@ -25,14 +25,31 @@
                 "techs": [
                         {
                                 "name": "spaceship",
-                                "row": 7,
-                                "prerequisites": ["Globalization","Nuclear Fusion"],
+                                "row": 10,
+                                "prerequisites": ["Nuclear Fusion"],
                 "uniques": [],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
                         }
                 ]
-        }
+        },
+   {
+                "columnNumber": 17,
+                "era": "Future era",
+                "techCost": 9500,
+                "buildingCost": 750,
+                "wonderCost": 1250,
+                "techs": [
+                        {
+                                "name": "Neural link",
+                                "row": 10,
+                                "prerequisites": ["Globalization"],
+                "uniques": [],
+                "quote": "'I think we agree, the past is over.' - George W. Bush",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+                        }
+                ]
+        },
         {
                 "columnNumber": 18,
                 "era": "Future era",
@@ -42,8 +59,8 @@
                 "techs": [
                         {
                                 "name": "Beyond Future",
-                                "row": 10,
-                                "prerequisites": ["Terraforming technology"],
+                                "row": 12,
+                                "prerequisites": ["Terraforming technology","Neural link","spaceship"],
                 "uniques": ["Can be continually researched"],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
