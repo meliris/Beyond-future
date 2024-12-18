@@ -30,7 +30,7 @@
                 ]
         },
    {
-                "columnNumber": 17,
+                "columnNumber": 16,
                 "era": "Future era",
                 "techCost": 9500,
                 "buildingCost": 750,
@@ -54,7 +54,7 @@
                 "techs": [
                         {
                                 "name": "Beyond Future",
-                                "row": 7,
+                                "row": 6,
                                 "prerequisites": ["Terraforming technology","Neural link","spaceship"],
                 "uniques": [""],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
