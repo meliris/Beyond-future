@@ -231,7 +231,7 @@
 "techs": [
 {
 "name": "",
-"row": 6,
+"row": 8,
 "prerequisites": ["Beyond Future"],
 "quote": "",
 }]
@@ -244,9 +244,9 @@
 "wonderCost": 1750,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Antimatter system",
+"row": 10,
+"prerequisites": ["Super alloy technology"],
 "quote": "",
 }]
 },
