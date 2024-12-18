@@ -84,7 +84,7 @@
 "wonderCost": 1250,
 "techs": [
 {
-"name": "",
+"name": "Orbital elevator",
 "row": 6,
 "prerequisites": ["Beyond Future"],
 "quote": "",
@@ -101,7 +101,7 @@
 "name": "",
 "row": 10,
 "prerequisites": ["Beyond Future"],
-"quote": "",
+"quote": "Photon drive technology",
 }]
 },
 ]
