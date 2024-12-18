@@ -466,9 +466,9 @@
 "wonderCost": 5000,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Contact UFO",
+"row": 4,
+"prerequisites": ["Warp technology"],
 "quote": "",
 }]
 },
@@ -480,9 +480,9 @@
 "wonderCost": 5000,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Hyperspace technology",
+"row": 8,
+"prerequisites": ["explore wormhole","Anti gravity system"],
 "quote": "",
 }]
 },
@@ -490,16 +490,16 @@
 
 
 {
-"columnNumber": 26,
+"columnNumber": 27,
 "era": "Future era",
-"techCost": 40000,
-"buildingCost": 4000,
-"wonderCost": 5000,
+"techCost": 100000,
+"buildingCost": 7500,
+"wonderCost": 10000,
 "techs": [
 {
 "name": "",
 "row": 6,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Contact UFO","Hyperspace technology"],
 "quote": "",
 }]
 },
