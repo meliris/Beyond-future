@@ -334,9 +334,9 @@
 "wonderCost": 2500,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Mind link technology",
+"row": 2,
+"prerequisites": ["Mechanical Lifeforms"],
 "quote": "",
 }]
 },
@@ -348,9 +348,9 @@
 "wonderCost": 2500,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Genetic modification system",
+"row": 4,
+"prerequisites": ["Mechanical Lifeforms","Anti aging system"],
 "quote": "",
 }]
 },
