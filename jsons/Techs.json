@@ -171,9 +171,9 @@
 "wonderCost": 1250,
 "techs": [
 {
-"name": "",
+"name": "Super alloy technology",
 "row": 10,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Photon drive technology"],
 "quote": "",
 }]
 },
