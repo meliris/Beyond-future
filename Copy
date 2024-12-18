@@ -1,14 +1,14 @@
 {
-"columnNumber": 17,
+"columnNumber": 20,
 "era": "Future era",
-"techCost": 9500,
+"techCost": 16000,
 "buildingCost": 750,
 "wonderCost": 1250,
 "techs": [
 {
-"name": "Terraforming technology",
-"row": 5,
-"prerequisites": ["Nanotechnology"],
-"quote": "Human was adapted.",
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
 }]
 },
