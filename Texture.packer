@@ -1,7 +1,10 @@
-{
-  "frames": {
-    "Orbital satellite.png": {
-      "frame": {
+texture.png
+size: 217,93
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+Orbital satellite.png: 
+      frame
         "x": 0,
         "y": 0,
         "w": 109,
