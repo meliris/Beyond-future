@@ -376,9 +376,9 @@
 "wonderCost": 2500,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "Dyson sphere technology",
+"row": 8,
+"prerequisites": [""],
 "quote": "",
 }]
 },
@@ -390,9 +390,9 @@
 "wonderCost": 2500,
 "techs": [
 {
-"name": "",
-"row": 6,
-"prerequisites": ["Beyond Future"],
+"name": "explore Black hole",
+"row": 12,
+"prerequisites": [""],
 "quote": "",
 }]
 },
