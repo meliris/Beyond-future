@@ -113,7 +113,7 @@
 "techs": [
 {
 "name": "",
-"row": 6,
+"row": 2,
 "prerequisites": ["Beyond Future"],
 "quote": "",
 }]
@@ -127,7 +127,7 @@
 "techs": [
 {
 "name": "",
-"row": 6,
+"row": 5,
 "prerequisites": ["Beyond Future"],
 "quote": "",
 }]
@@ -141,7 +141,7 @@
 "techs": [
 {
 "name": "",
-"row": 6,
+"row": 7,
 "prerequisites": ["Beyond Future"],
 "quote": "",
 }]
@@ -155,7 +155,7 @@
 "techs": [
 {
 "name": "",
-"row": 6,
+"row": 10,
 "prerequisites": ["Beyond Future"],
 "quote": "",
 }]
