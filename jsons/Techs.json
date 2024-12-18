@@ -251,5 +251,77 @@
 }]
 },
 
+
+
+{
+"columnNumber": 22,
+"era": "Future era",
+"techCost": 20000,
+"buildingCost": 1500,
+"wonderCost": 2000,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 22,
+"era": "Future era",
+"techCost": 20000,
+"buildingCost": 1500,
+"wonderCost": 2000,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 22,
+"era": "Future era",
+"techCost": 20000,
+"buildingCost": 1500,
+"wonderCost": 2000,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 22,
+"era": "Future era",
+"techCost": 20000,
+"buildingCost": 1500,
+"wonderCost": 2000,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 22,
+"era": "Future era",
+"techCost": 20000,
+"buildingCost": 1500,
+"wonderCost": 2000,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
   
 ]
