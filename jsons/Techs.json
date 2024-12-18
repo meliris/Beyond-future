@@ -1,4 +1,38 @@
 [
+                {
+                "columnNumber": 17,
+                "era": "Future era",
+                "techCost": 9500,
+                "buildingCost": 750,
+                "wonderCost": 1250,
+                "techs": [
+                        {
+                                "name": "",
+                                "row": 7,
+                                "prerequisites": ["Nanotechnology"],
+                "uniques": [],
+                "quote": "'I think we agree, the past is over.' - George W. Bush",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+                        }
+                ]
+        }
+                {
+                "columnNumber": 17,
+                "era": "Future era",
+                "techCost": 9500,
+                "buildingCost": 750,
+                "wonderCost": 1250,
+                "techs": [
+                        {
+                                "name": "",
+                                "row": 7,
+                                "prerequisites": ["Globalization","Nuclear Fusion"],
+                "uniques": [],
+                "quote": "'I think we agree, the past is over.' - George W. Bush",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+                        }
+                ]
+        }
         {
                 "columnNumber": 18,
                 "era": "Future era",
