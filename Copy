@@ -1,9 +1,9 @@
 {
-"columnNumber": 23,
+"columnNumber": 24,
 "era": "Future era",
-"techCost": 22000,
-"buildingCost": 2000,
-"wonderCost": 2500,
+"techCost": 24000,
+"buildingCost": 2500,
+"wonderCost": 3000,
 "techs": [
 {
 "name": "",
