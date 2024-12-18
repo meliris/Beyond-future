@@ -3,7 +3,7 @@
                 "name": "Orbital satellite",
                 "unitType": "Missile",
                 "movement": 5,
-                "strength": 1300,
+                "strength": 300,
                 "range": 20,
                 "cost": 1500,
                 "requiredTech": "Satellites",
