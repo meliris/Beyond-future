@@ -76,4 +76,32 @@
 "quote": "",
 }]
 },
+{
+"columnNumber": 19,
+"era": "Future era",
+"techCost": 14000,
+"buildingCost": 750,
+"wonderCost": 1250,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 19,
+"era": "Future era",
+"techCost": 14000,
+"buildingCost": 750,
+"wonderCost": 1250,
+"techs": [
+{
+"name": "",
+"row": 10,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
 ]
