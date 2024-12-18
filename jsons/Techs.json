@@ -112,7 +112,7 @@
 "wonderCost": 1250,
 "techs": [
 {
-"name": "",
+"name": "Hologram technology",
 "row": 2,
 "prerequisites": ["Beyond Future"],
 "quote": "",
