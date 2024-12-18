@@ -7,7 +7,7 @@
                 "range": 20,
                 "cost": 1500,
                 "requiredTech": "Satellites",
-                "uniques": ["[+50] Sight","Limited to [1] per Civilization", "Consumes [4] [Alminum]"],
+                "uniques": ["[+50] Sight","Limited to [1] per Civilization", "Consumes [4] [Aluminum]"],
                 "attackSound": "nuke"
 }, 
         {
