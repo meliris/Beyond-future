@@ -1,0 +1,19 @@
+[
+        {
+                "columnNumber": 18,
+                "era": "Future era",
+                "techCost": 9500,
+                "buildingCost": 750,
+                "wonderCost": 1250,
+                "techs": [
+                        {
+                                "name": "Beyond Future",
+                                "row": 10,
+                                "prerequisites": ["Future Tech"],
+                "uniques": ["Can be continually researched"],
+                "quote": "'I think we agree, the past is over.' - George W. Bush",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+                        }
+                ]
+        }
+]
