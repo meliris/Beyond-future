@@ -8,12 +8,12 @@ UnitIcons/Orbital satellite
   xy: 0, 0
   size: 109, 93
   orig: 109, 93
-  offset: 0.5, 0.5
+  offset: 0, 0
   index: -1
 UnitIcon/Tsar Bomba
   rotate: false
   xy: 109, 0
   size: 108, 73
   orig: 108, 73
-  offset: 0.5, 0.5
+  offset: 0, 0
   index: -1
