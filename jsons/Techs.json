@@ -30,7 +30,7 @@
                 ]
         },
    {
-                "columnNumber": 16,
+                "columnNumber": 17,
                 "era": "Future era",
                 "techCost": 9500,
                 "buildingCost": 750,
@@ -98,7 +98,7 @@
 "wonderCost": 1250,
 "techs": [
 {
-"name": "",
+"name": "Photon drive technology",
 "row": 10,
 "prerequisites": ["Beyond Future"],
 "quote": "Photon drive technology",
@@ -319,7 +319,7 @@
 {
 "name": "search for Planet nine",
 "row": 12,
-"prerequisites": ["Beyond Future","Antimatter system"],
+"prerequisites": ["explore Jupiter","Antimatter system"],
 "quote": "",
 }]
 },
