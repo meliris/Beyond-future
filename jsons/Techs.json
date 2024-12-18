@@ -457,4 +457,50 @@
 },
 
 
+
+{
+"columnNumber": 26,
+"era": "Future era",
+"techCost": 40000,
+"buildingCost": 4000,
+"wonderCost": 5000,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 26,
+"era": "Future era",
+"techCost": 40000,
+"buildingCost": 4000,
+"wonderCost": 5000,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+
+
+
+{
+"columnNumber": 26,
+"era": "Future era",
+"techCost": 40000,
+"buildingCost": 4000,
+"wonderCost": 5000,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
 ]
