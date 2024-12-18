@@ -335,7 +335,7 @@
 "techs": [
 {
 "name": "Mind link technology",
-"row": 2,
+"row": 4,
 "prerequisites": ["Mechanical Lifeforms"],
 "quote": "",
 }]
@@ -349,7 +349,7 @@
 "techs": [
 {
 "name": "Genetic modification system",
-"row": 4,
+"row": 2,
 "prerequisites": ["Mechanical Lifeforms","Anti aging system"],
 "quote": "",
 }]
@@ -482,7 +482,7 @@
 {
 "name": "Hyperspace technology",
 "row": 8,
-"prerequisites": ["explore wormhole","Anti gravity system"],
+"prerequisites": ["explore wormhole","Black hole power generator","Anti gravity system"],
 "quote": "",
 }]
 },
