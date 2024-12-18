@@ -104,6 +104,9 @@
 "quote": "Photon drive technology",
 }]
 },
+
+
+  
 {
 "columnNumber": 20,
 "era": "Future era",
@@ -114,10 +117,11 @@
 {
 "name": "Hologram technology",
 "row": 2,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Quantum Computer technology"],
 "quote": "",
 }]
 },
+{
 "columnNumber": 20,
 "era": "Future era",
 "techCost": 16000,
@@ -125,9 +129,9 @@
 "wonderCost": 1250,
 "techs": [
 {
-"name": "",
+"name": "Ai Singularity",
 "row": 4,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Quantum Computer technology"],
 "quote": "",
 }]
 },
