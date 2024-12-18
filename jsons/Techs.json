@@ -348,7 +348,7 @@
 "wonderCost": 2500,
 "techs": [
 {
-"name": "Anti aging system",
+"name": "Genetic modification system",
 "row": 4,
 "prerequisites": ["Mechanical Lifeforms","Anti aging system"],
 "quote": "",
@@ -409,7 +409,7 @@
 {
 "name": "Warp technology",
 "row": 3,
-"prerequisites": ["Mind link technology","Anti aging system"],
+"prerequisites": ["Mind link technology","Genetic modification system"],
 "quote": "",
 }]
 },
@@ -503,5 +503,5 @@
 "quote": "'It is not the strongest of the species that survives, nor the most intelligent that survives.' - Charles R. Darwin",
 "civilopedia Text": [{"text": "Who can stop the us?"}]
 }]
-},
+}
 ]
