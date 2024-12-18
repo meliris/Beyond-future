@@ -362,9 +362,9 @@
 "wonderCost": 2500,
 "techs": [
 {
-"name": "",
+"name": "explore Saturn",
 "row": 6,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["explore Mercury"],
 "quote": "",
 }]
 },
@@ -378,7 +378,7 @@
 {
 "name": "Dyson sphere technology",
 "row": 8,
-"prerequisites": [""],
+"prerequisites": ["explore Sun"],
 "quote": "",
 }]
 },
@@ -392,7 +392,7 @@
 {
 "name": "explore Black hole",
 "row": 12,
-"prerequisites": [""],
+"prerequisites": ["explore Sun","search for Planet nine"],
 "quote": "",
 }]
 },
