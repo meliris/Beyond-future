@@ -423,7 +423,7 @@
 {
 "name": "explore wormhole",
 "row": 6,
-"prerequisites": ["explore Black hole"],
+"prerequisites": ["explore Saturn"],
 "quote": "",
 }]
 },
