@@ -143,9 +143,9 @@
 "wonderCost": 1250,
 "techs": [
 {
-"name": "",
+"name": "Moon explore",
 "row": 6,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Orbital elevator"],
 "quote": "",
 }]
 },
@@ -157,9 +157,9 @@
 "wonderCost": 1250,
 "techs": [
 {
-"name": "",
+"name": "Mars explore",
 "row": 8,
-"prerequisites": ["Beyond Future"],
+"prerequisites": ["Orbital elevator"],
 "quote": "",
 }]
 },
