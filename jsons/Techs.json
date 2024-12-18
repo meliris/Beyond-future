@@ -348,7 +348,7 @@
 "wonderCost": 2500,
 "techs": [
 {
-"name": "Genetic modification system",
+"name": "Anti aging system",
 "row": 4,
 "prerequisites": ["Mechanical Lifeforms","Anti aging system"],
 "quote": "",
