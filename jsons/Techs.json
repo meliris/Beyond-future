@@ -7,9 +7,9 @@
                 "wonderCost": 1250,
                 "techs": [
                         {
-                                "name": "",
+                                "name": "Terraforming technology",
                                 "row": 7,
-                                "prerequisites": ["Nanotechnology"],
+                                "prerequisites": ["Nanotechnology","spaceship"],
                 "uniques": [],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
@@ -24,7 +24,7 @@
                 "wonderCost": 1250,
                 "techs": [
                         {
-                                "name": "",
+                                "name": "spaceship",
                                 "row": 7,
                                 "prerequisites": ["Globalization","Nuclear Fusion"],
                 "uniques": [],
@@ -36,14 +36,14 @@
         {
                 "columnNumber": 18,
                 "era": "Future era",
-                "techCost": 9500,
+                "techCost": 12500,
                 "buildingCost": 750,
                 "wonderCost": 1250,
                 "techs": [
                         {
                                 "name": "Beyond Future",
                                 "row": 10,
-                                "prerequisites": ["Future Tech"],
+                                "prerequisites": ["Terraforming technology"],
                 "uniques": ["Can be continually researched"],
                 "quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
