@@ -1,19 +1,19 @@
 game.png
-size: 217,93
+size: 100,197
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Orbital satellite
   rotate: false
   xy: 0, 0
-  size: 109, 93
-  orig: 109, 93
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tsar Bomba
   rotate: false
-  xy: 109, 0
-  size: 108, 73
-  orig: 108, 73
+  xy: 0, 100
+  size: 84, 97
+  orig: 84, 97
   offset: 0, 0
   index: -1
