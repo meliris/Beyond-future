@@ -111,8 +111,8 @@
 "columnNumber": 20,
 "era": "Future era",
 "techCost": 16000,
-"buildingCost": 750,
-"wonderCost": 1250,
+"buildingCost": 1000,
+"wonderCost": 1500,
 "techs": [
 {
 "name": "Hologram technology",
@@ -125,8 +125,8 @@
 "columnNumber": 20,
 "era": "Future era",
 "techCost": 16000,
-"buildingCost": 750,
-"wonderCost": 1250,
+"buildingCost": 1000,
+"wonderCost": 1500,
 "techs": [
 {
 "name": "Ai Singularity",
@@ -139,8 +139,8 @@
 "columnNumber": 20,
 "era": "Future era",
 "techCost": 16000,
-"buildingCost": 750,
-"wonderCost": 1250,
+"buildingCost": 1000,
+"wonderCost": 1500,
 "techs": [
 {
 "name": "Moon explore",
@@ -153,8 +153,8 @@
 "columnNumber": 20,
 "era": "Future era",
 "techCost": 16000,
-"buildingCost": 750,
-"wonderCost": 1250,
+"buildingCost": 1000,
+"wonderCost": 1500,
 "techs": [
 {
 "name": "Mars explore",
@@ -167,8 +167,8 @@
 "columnNumber": 20,
 "era": "Future era",
 "techCost": 16000,
-"buildingCost": 750,
-"wonderCost": 1250,
+"buildingCost": 1000,
+"wonderCost": 1500,
 "techs": [
 {
 "name": "Super alloy technology",
@@ -177,4 +177,79 @@
 "quote": "",
 }]
 },
+
+
+
+{
+"columnNumber": 21,
+"era": "Future era",
+"techCost": 18000,
+"buildingCost": 1250,
+"wonderCost": 1750,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 21,
+"era": "Future era",
+"techCost": 18000,
+"buildingCost": 1250,
+"wonderCost": 1750,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 21,
+"era": "Future era",
+"techCost": 18000,
+"buildingCost": 1250,
+"wonderCost": 1750,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 21,
+"era": "Future era",
+"techCost": 18000,
+"buildingCost": 1250,
+"wonderCost": 1750,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+{
+"columnNumber": 21,
+"era": "Future era",
+"techCost": 18000,
+"buildingCost": 1250,
+"wonderCost": 1750,
+"techs": [
+{
+"name": "",
+"row": 6,
+"prerequisites": ["Beyond Future"],
+"quote": "",
+}]
+},
+
+  
 ]
