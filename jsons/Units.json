@@ -42,11 +42,11 @@
 "unitType": "space Vehicle",
 "movement": 3,
 "strength": 1500,
-"rangedStrength": 1300,
+"rangedStrength": 3000,
 "range": 3,
 "cost": 25000,
 "requiredTech": "Super alloy technology",
-"uniques": ["Can move after attacking",
+"uniques": ["[-90]% Strength <vs Missile>",
 "Limited to [1] per Civilization",
 "Consumes [12] [Iron]", 
 "Consumes [4] [Aluminum]", 
@@ -64,7 +64,8 @@
 "[-77]% Strength <vs Mounted>",
 "Triggers a global alert upon completion",
 "Limited to [4] per Civilization",
-"Consumes [5] [Horses]"],
+"Consumes [5] [Horses]",
+"Can pass through impassable tiles"],
 "attackSound": "machinegun"
 },
 
