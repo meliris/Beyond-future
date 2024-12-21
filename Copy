@@ -71,4 +71,5 @@
 "movement": 2,
 "uniques": ["Can build [Land] improvements on tiles",
 "Can build [Water] improvements on tiles",],
-"cost": 0},
+"cost": 0
+},
