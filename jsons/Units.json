@@ -71,4 +71,21 @@
 
 
 
+{
+"name": "space fighter",
+"unitType": "space Vehicle",
+"movement": 5,
+"strength": 100,
+"rangedStrength": 200,
+"range": 1,
+"cost": 800,
+"requiredTech": "spaceship",
+"requiredResource": "Aluminum",
+"upgradesTo": "",
+"uniques": ["Can move after attacking"],
+"attackSound": "machinegun"
+},
+
+
+
 ]
