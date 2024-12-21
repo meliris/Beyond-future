@@ -17,6 +17,8 @@
 
 {
 "name": "",
+"cost": 360,
+"production": 4,
 "science": 200,
 "culture": 1,
 "gold": 4,
