@@ -16,12 +16,13 @@
                 "cityStrength": 12,
                 "replaces": "Bank",
                 "uniqueTo": "Persia",
+                "cityHealth": 25,
 
 
 {
 "name": "",
-"replaces": "Bank",
-"uniqueTo": "Persia",
+"replaces": "",
+"uniqueTo": "",
 "cost": 0,
 "production": 0,
 "science": 0,
@@ -29,6 +30,7 @@
 "gold": 0,
 "happiness": 0,
 "cityStrength": 0,
+"cityHealth": 25,
 "specialistSlots": {"Artist": 2,"Scientist":0},
 "isWonder": true,
 "greatPersonPoints": {"Great Engineer":0,"Great Merchant": 0},
