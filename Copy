@@ -21,6 +21,7 @@
 "specialistSlots": {"Scientist":},
 "isWonder": true,
 "greatPersonPoints": {"Great Engineer":},
+"greatPersonPoints": {"Great Merchant": 2},
 "uniques": ["[+30]% [] [in all cities]"],
 "requiredTech": "",
 "quote": ""
