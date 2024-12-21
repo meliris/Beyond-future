@@ -1,10 +1,11 @@
 [
         {
-                "name": "Temple of Artemis",
-                "culture": 1,
+                "name": "",
+                "science": 20,
+                "specialistSlots": {"Scientist":5},
                 "isWonder": true,
                 "greatPersonPoints": {"Great Engineer":2}
-        "uniques": ["[+10]% [Production] [in all cities]","[+10]% [Food] [in all cities]"],
+        "uniques": ["[+30]% [Production] [in all cities]","[+15]% [science] [in all cities]"],
                 "requiredTech": "",
                 "quote": ""
         },
