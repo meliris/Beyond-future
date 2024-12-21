@@ -10,13 +10,13 @@
                 "quote": ""
         },
         {
-                "name": "",
+                "name": "Black hole power generator",
                 "science": 200,
                 "specialistSlots": {"Scientist":5},
                 "isWonder": true,
                 "greatPersonPoints": {"Great Engineer":10}
         "uniques": ["[+100]% [Production] [in all cities]"],
-                "requiredTech": "",
+                "requiredTech": "Black hole power generator",
                 "quote": ""
         },
 ]
