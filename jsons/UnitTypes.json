@@ -1,7 +1,19 @@
 [
 {
-        "name": "Helicopter",
+        "name": "Hovercraft",
         "movementType": "Land",
-        "uniques": ["Can pass through impassable tiles"]
+        "uniques": ["Can move after attacking",
+        "All tiles cost 1 movement",
+        "Invisible to non-adjacent units",
+        "Can pass through impassable tiles"]
+    },
+{
+        "name": "space ship",
+        "movementType": "Land",
+        "uniques": ["Invisible to non-adjacent units","Can pass through impassable tiles"]
+    },
+{
+        "name": "Mech",
+        "movementType": "Land"
     },
 ]
