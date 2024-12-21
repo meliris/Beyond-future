@@ -25,12 +25,10 @@
 
 {
 "name": "Orbital elevator",
-"production": 20,
+"production": 10,
 "science": 10,
-"gold": 10,
-"cityStrength": 0,
+"gold": 20,
 "specialistSlots": {"Scientist":3},
-"isNationalWonder": true,
 "greatPersonPoints": {"Great Engineer":1},
 "maintenance": 5,
 "uniques": ["[+1 Science] per [1] population [in this city]"],
