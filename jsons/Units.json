@@ -40,18 +40,18 @@
 {
 "name": "Battleship of Yamato",
 "unitType": "space Vehicle",
-"movement": 3,
+"movement": 5,
 "strength": 1500,
 "rangedStrength": 3000,
-"range": 3,
+"range": 5,
 "cost": 25000,
 "requiredTech": "Super alloy technology",
-"uniques": ["[-90]% Strength <vs Missile>",
+"uniques": ["[-77]% Strength <vs Missile>",
 "Limited to [1] per Civilization",
 "Consumes [12] [Iron]", 
 "Consumes [4] [Aluminum]", 
 "Consumes [3] [Uranium]"],
-"attackSound": "machinegun"
+"attackSound": "nuke"
 },
 {
 "name": "Vampires",
@@ -66,7 +66,7 @@
 "Limited to [4] per Civilization",
 "Consumes [5] [Horses]",
 "Can pass through impassable tiles"],
-"attackSound": "machinegun"
+"attackSound": "nonmetalhit"
 },
 
 
