@@ -13,7 +13,7 @@
 }]
 },
 
-
+                "cityStrength": 12,
 
 
 {
@@ -24,6 +24,7 @@
 "culture": 0,
 "gold": 0,
 "happiness": 0,
+"cityStrength": 0,
 "specialistSlots": {"Artist": 2,"Scientist":0},
 "isWonder": true,
 "greatPersonPoints": {"Great Engineer":0,"Great Merchant": 0},
