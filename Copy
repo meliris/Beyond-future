@@ -44,3 +44,31 @@
 "requiredTech": "",
 "quote": ""
 },
+
+
+{
+"name": "",
+"unitType": "space Vehicle",
+"movement": 0,
+"strength": 0,
+"rangedStrength": 0,
+"range": 0,
+"interceptRange": 0,
+"cost": 0,
+"requiredTech": "",
+"requiredResource": "",
+"upgradesTo": "",
+"uniques": ["Cannot attack",
+"Can move after attacking",
+"Can carry [2] [Aircraft] units"],
+"attackSound": "machinegun"
+},
+
+
+{
+"name": ""
+"unitType": "Civilian",
+"movement": 2,
+"uniques": ["Can build [Land] improvements on tiles",
+"Can build [Water] improvements on tiles",],
+"cost": 0},
