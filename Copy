@@ -19,6 +19,7 @@
                 "cityHealth": 25,
                 "isNationalWonder": true,
 
+                "specialistSlots": {"Engineer": 2},
 
 {
 "name": "",
@@ -32,7 +33,7 @@
 "happiness": 0,
 "cityStrength": 0,
 "cityHealth": 25,
-"specialistSlots": {"Artist": 2,"Scientist":0},
+"specialistSlots": {"Engineer": 2,"Artist": 2,"Scientist":0},
 "isNationalWonder": false,
 "isWonder": true,
 "greatPersonPoints": {"Great Engineer":0,"Great Merchant": 0},
