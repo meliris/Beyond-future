@@ -1,12 +1,12 @@
 [
         {
-                "name": "",
-                "science": 20,
+                "name": "Dyson sphere",
+                "science": 200,
                 "specialistSlots": {"Scientist":5},
                 "isWonder": true,
-                "greatPersonPoints": {"Great Engineer":2}
+                "greatPersonPoints": {"Great Engineer":5}
         "uniques": ["[+30]% [Production] [in all cities]","[+15]% [science] [in all cities]"],
-                "requiredTech": "",
+                "requiredTech": "Dyson sphere technology",
                 "quote": ""
         },
 ]
