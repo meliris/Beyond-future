@@ -14,10 +14,14 @@
 },
 
                 "cityStrength": 12,
+                "replaces": "Bank",
+                "uniqueTo": "Persia",
 
 
 {
 "name": "",
+"replaces": "Bank",
+"uniqueTo": "Persia",
 "cost": 0,
 "production": 0,
 "science": 0,
