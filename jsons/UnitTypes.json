@@ -2,18 +2,23 @@
 {
         "name": "Hovercraft",
         "movementType": "Land",
-        "uniques": ["Can move after attacking",
-        "All tiles cost 1 movement",
+        "uniques": ["All tiles cost 1 movement",
         "Invisible to non-adjacent units",
         "Can pass through impassable tiles"]
     },
 {
-        "name": "space ship",
+        "name": "space Vehicle",
         "movementType": "Land",
         "uniques": ["Invisible to non-adjacent units","Can pass through impassable tiles"]
     },
 {
         "name": "Mech",
         "movementType": "Land"
+    },
+{
+        "name": "Time machine",
+        "movementType": "Land",
+        "uniques": ["All tiles cost 0 movement",
+        "Can pass through impassable tiles"]
     },
 ]
