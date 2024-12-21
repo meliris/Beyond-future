@@ -14,7 +14,6 @@
 },
 
 
-
 {
 "name": "",
 "cost": 0,
@@ -22,13 +21,14 @@
 "science": 0,
 "culture": 0,
 "gold": 0,
+"happiness": 0,
 "specialistSlots": {"Scientist":0},
 "isWonder": true,
 "greatPersonPoints": {"Great Engineer":0,"Great Merchant": 0},
 "requiredBuilding": "University",
 "maintenance": 0,
 "hurryCostModifier": 0,
-"uniques": ["[+1 Science] per [2] population [in this city]","[+30]% [] [in all cities]"],
+"uniques": ["[0] free [Great Artist] units appear","[+1 Science] per [2] population [in this city]","[+30]% [] [in all cities]"],
 "requiredTech": "",
 "quote": ""
 },
