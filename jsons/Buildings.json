@@ -6,6 +6,7 @@
                 "isWonder": true,
                 "greatPersonPoints": {"Great Engineer":5}
         "uniques": ["[+30]% [Production] [in all cities]","[+15]% [science] [in all cities]"],
+                "requiredBuilding": "Orbital elevator",
                 "requiredTech": "Dyson sphere technology",
                 "quote": ""
         },
@@ -17,8 +18,25 @@
                 "isWonder": true,
                 "greatPersonPoints": {"Great Engineer":10}
         "uniques": ["[+100]% [Production] [in all cities]"],
+                "requiredBuilding": "Orbital elevator",
                 "requiredTech": "Black hole power generator",
                 "quote": ""
         },
+
+{
+"name": "Orbital elevator",
+"production": 20,
+"science": 10,
+"gold": 10,
+"cityStrength": 0,
+"specialistSlots": {"Scientist":3},
+"isNationalWonder": true,
+"greatPersonPoints": {"Great Engineer":1},
+"maintenance": 5,
+"uniques": ["[+1 Science] per [1] population [in this city]"],
+"requiredTech": "Orbital elevator",
+"quote": ""
+},
+
 ]
 
