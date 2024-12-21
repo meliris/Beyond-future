@@ -12,3 +12,16 @@
 "quote": "",
 }]
 },
+
+
+
+{
+"name": "",
+"science": 200,
+"specialistSlots": {"Scientist":},
+"isWonder": true,
+"greatPersonPoints": {"Great Engineer":},
+"uniques": ["[+30]% [] [in all cities]"],
+"requiredTech": "",
+"quote": ""
+},
