@@ -9,7 +9,7 @@
 {
         "name": "space Vehicle",
         "movementType": "Land",
-        "uniques": ["Invisible to non-adjacent units","Can pass through impassable tiles"]
+        "uniques": ["Must set up to ranged attack","Invisible to non-adjacent units","Can pass through impassable tiles"]
     },
 {
         "name": "Mech",
