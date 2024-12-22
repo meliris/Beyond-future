@@ -60,7 +60,8 @@
 "upgradesTo": "",
 "uniques": ["Cannot attack",
 "Can move after attacking",
-"Can carry [2] [Aircraft] units"],
+"Can carry [2] [Aircraft] units",
+"[-77]% Strength <vs [space Vehicle] units>],
 "attackSound": "machinegun"
 },
 
