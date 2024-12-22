@@ -5,9 +5,10 @@
                 "movement": 5,
                 "strength": 300,
                 "range": 20,
+                "rangedStrength": 300,
                 "cost": 2500,
                 "requiredTech": "Satellites",
-                "uniques": ["[+50] Sight","Limited to [1] per Civilization", "Consumes [8] [Aluminum]"],
+                "uniques": ["[+35] Sight","Limited to [1] per Civilization", "Consumes [8] [Aluminum]"],
                 "attackSound": "nuke"
 }, 
         {
