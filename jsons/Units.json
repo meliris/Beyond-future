@@ -51,13 +51,14 @@
 "Limited to [1] per Civilization",
 "Consumes [12] [Iron]", 
 "Consumes [4] [Aluminum]", 
-"Consumes [3] [Uranium]"],
+"Consumes [3] [Uranium]", 
+"Never appears as a Barbarian unit"],
 "attackSound": "nuke"
 },
 {
 "name": "Vampires",
 "unitType": "Melee",
-"movement": 5,
+"movement": 2,
 "strength": 120,
 "cost": 450,
 "requiredTech": "Chivalry",
@@ -66,7 +67,8 @@
 "Triggers a global alert upon completion",
 "Limited to [4] per Civilization",
 "Consumes [5] [Horses]",
-"Can pass through impassable tiles"],
+"Can pass through impassable tiles", 
+"Never appears as a Barbarian unit"],
 "attackSound": "nonmetalhit"
 },
 
