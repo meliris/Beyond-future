@@ -2,10 +2,11 @@
         {
                 "name": "Dyson sphere",
                 "science": 200,
+                "percentStatBonus": {"science": 15},
                 "specialistSlots": {"Scientist":5},
                 "isWonder": true,
                 "greatPersonPoints": {"Great Engineer":5}
-        "uniques": ["[+30]% [Production] [in all cities]","[+15]% [Science] [in all cities]"],
+        "uniques": ["[+30]% [Production] [in all cities]"],
                 "requiredBuilding": "Orbital elevator",
                 "requiredTech": "Dyson sphere technology",
                 "quote": ""
