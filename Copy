@@ -18,7 +18,7 @@
                 "uniqueTo": "Persia",
                 "cityHealth": 25,
                 "isNationalWonder": true,
-
+                        "Can carry [3] [Missile] units", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
                 "specialistSlots": {"Engineer": 2},
 
 {
@@ -61,7 +61,8 @@
 "uniques": ["Cannot attack",
 "Can move after attacking",
 "Can carry [2] [Aircraft] units",
-"[-77]% Strength <vs [space Vehicle] units>],
+"[-77]% Strength <vs [space Vehicle] units>, 
+"Never appears as a Barbarian unit"],
 "attackSound": "machinegun"
 },
 
