@@ -34,7 +34,8 @@
 "strength": 100,
 "requiredTech": "Mechanical Lifeforms",
 "uniques": ["Can build [Land] improvements on tiles",
-"Can build [Water] improvements on tiles",
+"Can build [Water] improvements on tiles", 
+"May create improvements on water resources",
 "Cannot attack"],
 "cost": 750
 },
