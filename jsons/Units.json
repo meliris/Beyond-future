@@ -81,7 +81,7 @@
 "cost": 800,
 "requiredTech": "spaceship",
 "requiredResource": "Aluminum",
-"upgradesTo": "",
+"upgradesTo": "space fighter",
 "uniques": ["Can move after attacking"],
 "attackSound": "machinegun"
 },
