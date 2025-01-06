@@ -8,7 +8,7 @@
                 "techs": [
                         {
                                 "name": "Terraforming technology",
-                                "row": 5,
+                                "row": 6,
                                 "prerequisites": ["Nanotechnology"],
                 "quote": "Human was adapted.",
                         }
